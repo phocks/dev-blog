@@ -7,7 +7,7 @@ import sitemap from "@astrojs/sitemap";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://abcnews.github.io/",
+  site: "https://dev.phocks.org/",
   integrations: [
     tailwind({
       config: {
